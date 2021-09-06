@@ -1,7 +1,7 @@
 # Prices_Website
 
 **[Site link](https://ilyasselarbaouti.github.io/gromcodeProject2/index.html)**
-Layout supports mobile (up-to-1400) and desktop (more than 1400) versions
+Layout supports  desktop version
 The tech stack is:
 
 - HTML5
@@ -14,4 +14,4 @@ The tech stack is:
 
 - ##### Elarbaouti-Ilyass
 
-# Startup_Wedsite
+# Prices_Website

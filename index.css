@@ -114,19 +114,15 @@
 
 body {
   font-family: "Montserrat", sans-serif;
-}
-
-.price-tables {
   background-color: #141B1C;
   width: 1440px;
   height: 1000px;
-  position: relative;
-  display: flex;
-  align-items: center;
 }
 
 .container {
   display: flex;
+  margin-top: 115px;
+  margin-bottom: 115px;
   margin-left: 132px;
 }
 

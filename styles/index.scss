@@ -8,14 +8,14 @@
 }
 
 body{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
-    width: 1440px;
     font-family: 'Montserrat', sans-serif;
     background-color: $black;
+    width: 1440px;
+    display: flex;
+
 }
 .container{
         display: flex;
+        margin-top: 115px;
+        margin-left: 132px;
 }

@@ -9,13 +9,18 @@
 
 body{
     font-family: 'Montserrat', sans-serif;
+
+
+}
+.price-tables{
     background-color: $black;
     width: 1440px;
     height:1000px;
-
+    position: relative;
+    display: flex;
+    align-items: center;
 }
 .container{
         display: flex;
-        margin-top: 115px;
         margin-left: 132px;
 }

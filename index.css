@@ -9,7 +9,6 @@
   position: relative;
   height: 773px;
   width: 380px;
-  margin-right: 18px;
   background-color: #334247;
   overflow: hidden;
 }
@@ -110,6 +109,14 @@
   font-weight: bold;
   font-size: 14px;
   line-height: 17px;
+}
+
+#card1, #card2 {
+  margin-right: 18px;
+}
+
+#card3 {
+  margin-left: 0 !important;
 }
 
 body {

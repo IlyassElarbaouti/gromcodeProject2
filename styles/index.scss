@@ -8,13 +8,17 @@
 @import 'price-card.scss';
 
 body {
-  font-family: 'Montserrat', sans-serif;
-  background-color: $black;
   width: 1440px;
   height: 1000px;
+  font-family: 'Montserrat', sans-serif;
+  background-color: $black;
 }
 
 .container {
+  height: 100vh;
+  padding: 115px 132px;
   display: flex;
-  margin: auto;
+  justify-content: center;
+  align-items: center;
+  background-color: $black;
 }

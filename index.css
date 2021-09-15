@@ -1,3 +1,10 @@
+* {
+  box-sizing: border-box;
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+
 .price-card {
   position: relative;
   height: 773px;
@@ -105,13 +112,6 @@
   line-height: 17px;
 }
 
-* {
-  box-sizing: border-box;
-  color: white;
-  margin: 0;
-  padding: 0;
-}
-
 body {
   font-family: "Montserrat", sans-serif;
   background-color: #141B1C;
@@ -121,9 +121,7 @@ body {
 
 .container {
   display: flex;
-  margin-top: 115px;
-  margin-bottom: 115px;
-  margin-left: 132px;
+  margin: auto;
 }
 
 /*# sourceMappingURL=index.css.map */

@@ -1,11 +1,11 @@
-@import 'variables.scss';
-@import 'price-card.scss';
 *{
     box-sizing: border-box;
     color: white;
     margin: 0;
     padding: 0;
 }
+@import 'variables.scss';
+@import 'price-card.scss';
 
 body{
     font-family: 'Montserrat', sans-serif;
@@ -17,7 +17,5 @@ body{
 
 .container{
         display: flex;
-        margin-top: 115px;
-        margin-bottom: 115px;
-        margin-left: 132px;
+        margin:auto;
 }

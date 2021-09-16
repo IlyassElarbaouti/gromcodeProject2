@@ -9,6 +9,7 @@
   position: relative;
   height: 773px;
   width: 380px;
+  margin-right: 18px;
   background-color: #334247;
   overflow: hidden;
 }
@@ -111,12 +112,8 @@
   line-height: 17px;
 }
 
-#card1, #card2 {
-  margin-right: 18px;
-}
-
-#card3 {
-  margin-left: 0 !important;
+.price-card:nth-child(3) {
+  margin-right: 0;
 }
 
 body {
